@@ -1,16 +1,13 @@
 # Heart Disease Prediction using Machine Learning and Deep Learning Models
 
-A comparative study of machine learning and deep learning models for predicting heart disease using clinical data.
-
-> Developed as part of the **CSE427** course at **BRAC University**.
+A comparative study of machine learning and deep learning models for predicting cardiovascular risk using clinical data.
 
 ## At a Glance
-
-- ❤️ **Application:** Heart Disease Prediction
-- 📊 **Dataset:** 1,888 patient records
-- 🎯 **Task:** Binary Classification
-- 🤖 **Models:** Logistic Regression, KNN, SVM, Random Forest, XGBoost, and ANN
-- 🏆 **Best Model:** Random Forest (98.41% Accuracy)
+- **Application:** Heart Disease Prediction
+- **Dataset:** 1,888 patient records
+- **Task:** Binary Classification
+- **Models:** Logistic Regression, KNN, SVM, Random Forest, XGBoost, and ANN
+- **Best Model:** Random Forest (98.41% Accuracy)
 
 ## Overview
 
